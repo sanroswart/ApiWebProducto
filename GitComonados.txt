@@ -1,0 +1,31 @@
+comandos mas usados
+
+1. git init
+nos inicializa un repositorio
+
+2. git status
+nos permite revisar el status de nuestro proyecto
+
+3. git clone <url del repositorio remoto>
+permite clonar un repo remoto a nuestro git local
+
+4. git branch 
+git brach --list // listar las ramas
+gir brach <nombreRama>
+git branch -d <Nombre de la rama>
+
+5. git checkout <nombre de la rama>
+git checkout -b <nombreNuevaRama>
+
+6. git add <nombre del archivo>
+git add .
+
+7. git commit -m "mensaje de informacion"
+
+8. git push origin <NombreDe la rama>
+    git push -u origin <nombre NuevaRama>
+
+
+9. git pull <nombreRama del archivo>
+
+10. git fetch 
